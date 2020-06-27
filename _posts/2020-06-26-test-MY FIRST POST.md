@@ -8,13 +8,13 @@ tags: [test]
 comments: true
 ---
 
-# --- SEND US A MAIL --- #
+# --- ENJOY YOUR STAY! --- #
 
-# ALPHABLOGS.GITHUB.IO
+# ALPHABLOGS
 title:Cryptocurrency news and latest
 
 # Well,we all at one point was new at this.This site is meant to help you gather some useful information and insight on cryptocurrency.
-:THIS SITE IS A GREAT GREAT SITE!
+#### *_THIS SITE IS A GREAT GREAT SITE!_*JUST FOR THAT
 
 # Your name to show in the footer
 author: ALPHAINITIAL1
