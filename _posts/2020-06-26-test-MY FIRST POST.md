@@ -11,17 +11,15 @@ comments: true
 # --- ENJOY YOUR STAY! --- #
 
 # ALPHABLOGS
-title:Cryptocurrency news and latest
+Cryptocurrency news and latest
 
 # Well,we all at one point was new at this.This site is meant to help you gather some useful information and insight on cryptocurrency.
 #### *_THIS SITE IS A GREAT GREAT SITE!_*JUST FOR THAT.
 
-# Your name to show in the footer
-author: ALPHAINITIAL1
-
-# --- List of links in the navigation bar --- #
-
-navbar-links:
+# HERE ARE SOME LINKS TO SOME AMAZING SITES THAT ALLOWS YOU EARN CRYPTOCURRENCY.
+    [You get to earn GRAM for using this link](https://GramFree.world/?r=2191438).
+<a target="_blank" href="https://www.faucetcrypto.com/ref/273276"><img src="https://www.faucetcrypto.com/banners/300x250.gif" width="300" height="250"></a>
+<a target=_blank" href="https://getzen.cash/auth/register?ref=170286"><IMG scr="https://www.getzen.cash/banners/300×250.gif" width="300 height="250"></a>
   [About Me: "I AM A CRYPTO ENTHUSIAST,I.T FANATIC,SOCIALMEDIA PERSON AND A BLOGGER,WHO GOT HERE BY A LOT OF DETERMINATION NOT TO GIVREUP UNTIL I CAN PROOF TO MYSELF I AM USEFUL!"Resources:- VISIT PUBLISH0X: ]("https://www.publish0x.com?a=YRdGM48aDz"- EARN GRAM: "https://GramFree.world/?r=2191438"Author's home: "https://alphablogs.github.io")
 
 
