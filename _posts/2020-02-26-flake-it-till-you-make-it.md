@@ -1,5 +1,5 @@
 ---
-layout:MY POST
+layout:MY LATESTPOST
 title: MY CRYPTOCURRENCY BLOG
 subtitle:Publish0x.com
 cover-img: /assets/img/path.jpg
