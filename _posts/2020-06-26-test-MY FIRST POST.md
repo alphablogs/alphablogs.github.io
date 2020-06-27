@@ -3,7 +3,7 @@ layout: CRYPTOCURRENCY POST
 title: MY CRYPTOCURRENCY BLOG
 subtitle: YOU ARE VIEWING CRYPTOCURRENCY NEWS AND BLOGS
 gh-repo: alphablogs.github.io/beautiful-jekyll
-gh-badge: [star, fork, follow]
+gh-badge: [alphablogs, alphablogs, alhphablogs]
 tags: [test]
 comments: true
 ---
