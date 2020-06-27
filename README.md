@@ -3,14 +3,14 @@
 [![Beautiful Jekyll CI](https://github.com/daattali/beautiful-jekyll/workflows/Beautiful%20Jekyll%20CI/badge.svg)](https://github.com/daattali/beautiful-jekyll/actions?query=branch%3Amaster+event%3Apush+workflow%3A%22Beautiful+Jekyll+CI%22)
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
-> *Copyright 2020 [Dean Attali](https://deanattali.com)*
+> *Copyright 2020 [Dean Attali](https://alphablogs.github.io.)*
 
 **Beautiful Jekyll** is a ready-to-use template to help you create a beautiful website quickly. Perfect for personal sites, blogs, or simple project websites.  [Check out a demo](https://beautifuljekyll.com) of what you'll get after just two minutes.  You can also look at [my personal website](https://deanattali.com) to see it in use, or see examples of websites other people created using this theme [below](#showcased-users-success-stories).
 
-**If you enjoy this theme, please consider [supporting me](http://paypal.me/daattali) or [sponsoring me](https://github.com/sponsors/daattali) for developing and maintaining it for over 5 years.**
+**If you enjoy this theme, please consider [supporting me](http://paypal.me/Kayode Samuel olamisegbe) or [sponsoring me](https://github.com/sponsors/Kayode samuel) for developing and maintaining it for over 5 years.**
 
 <p align="center">
-  <a style="display: inline-block;" href="https://paypal.me/daattali">
+  <a style="display: inline-block;" href="https://paypal.me/Kay sam">
     <img height="40" src="https://camo.githubusercontent.com/0e9e5cac101f7093336b4589c380ab5dcfdcbab0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f74776f6c66736f6e2f70617970616c2d6769746875622d627574746f6e40312e302e302f646973742f627574746f6e2e737667" />
   </a>&nbsp;&nbsp;
   <a style="display: inline-block;" href="https://github.com/sponsors/daattali">
@@ -22,7 +22,7 @@
 
 - [Features](#features)
 - [**Build your website in 3 steps**](#build-your-website-in-3-steps)
-- [Add your own content](#add-your-own-content)
+- [Add](#add-your-own-content)
 - [Customizing parameters for each page](#customizing-parameters-for-each-page)
 - [Supported parameters](#supported-parameters)
 - [Showcased users (success stories!)](#showcased-users-success-stories)
@@ -71,7 +71,7 @@ Edit the `_config.yml` file to change any settings you want. To edit the file, c
 
 ### 4. Congratulations! You have a website!
 
-After you save your changes to the config file (by clicking on *Commit changes* as the video tutorial shows), your website should be ready in a minute or two at `https://<yourusername>.github.io`. Every time you make a change to any file, your website will get rebuilt and should be updated in about a minute or so. Your website will be initialized with several sample blog posts and a couple other pages.
+After you save your changes to the config file (by clicking on *Commit changes* as the video tutorial shows), your website should be ready in a minute or two at `https://<alphablogs>.github.io`. Every time you make a change to any file, your website will get rebuilt and should be updated in about a minute or so. Your website will be initialized with several sample blog posts and a couple other pages.
 
 Note that in the video above I only edited one setting in the `_config.yml` file. **You should actually go through the rest of the settings as well. Don't be lazy, go through all the settings :)**
 
