@@ -1,5 +1,7 @@
 ---
 layout: CRYPTOCURRENCY POST
+
+
 title: MY CRYPTOCURRENCY BLOG
 subtitle: YOU ARE VIEWING CRYPTOCURRENCY NEWS AND BLOGS
 gh-repo: alphablogs.github.io/beautiful-jekyll
@@ -28,5 +30,8 @@ Cryptocurrency news and latest
 **WELCOME ON HERE**  
 
 ## LOOKING FOR SOME CRYPTOCURRENCY NEWS
+
+
+
 
 ####  *_YOU ARE IN THE RIGHT PLACE_*
