@@ -63,11 +63,11 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "alphainitial1@gmail.com"
-  facebook: alphablogs
-  github: alphablogs
-  twitter: alphainitial1
+  facebook:alphablogs
+  github:alphablogs
+  twitter:alphainitial1
   rss: true
-#  reddit: alphainitial
+#  reddit:alphainitial
 #  linkedin:alphainitial1
 #  xing: yourname
 #  stackoverflow: ""
