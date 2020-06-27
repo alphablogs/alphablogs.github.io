@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+layout:MY POST
+title: MY CRYPTOCURRENCY BLOG
+subtitle:Publishe0x.com
 cover-img: /assets/img/path.jpg
 tags: [books, test]
 ---
