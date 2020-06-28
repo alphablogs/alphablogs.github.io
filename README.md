@@ -30,13 +30,13 @@ title:Cryptocurrency news and latest
 # Well,we all at one point was new at this.This site is meant to help you gather some useful information and insight on cryptocurrency.
 :THIS SITE IS A GREAT GREAT SITE!
 
-# Your name to show in the footer
+# ALPHAINITIAL1
 author: ALPHAINITIAL1
 
-# --- List of links in the navigation bar --- #
+# --- MENU --- #
 
-navbar-links:
-  About Me: "aboutme"
+navbar-links:"MENU"
+  About Me: "EARN CRYPTOCURRENCY"
   Resources:
     - VISIT PUBLISH0X: "https://www.publish0x.com?a=YRdGM48aDz"
     - EARN GRAM: "https://GramFree.world/?r=2191438"
