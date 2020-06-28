@@ -5,7 +5,7 @@ layout: CRYPTOCURRENCY POST
 title: MY CRYPTOCURRENCY BLOG
 subtitle: YOU ARE VIEWING CRYPTOCURRENCY NEWS AND BLOGS
 gh-repo: alphablogs.github.io/beautiful-jekyll
-gh-badge: [alphablogs, alphablogs, alhphablogs]
+gh-badge: [alphablogs, alphablogs.github.io, alhphablogs/alphablogs.github.io]
 tags: [test]
 comments: true
 ---
@@ -30,7 +30,7 @@ Cryptocurrency news and latest
 <a target="_blank" href="https://www.faucetcrypto.com/ref/273276"><img src="https://www.faucetcrypto.com/banners/300x250.gif" width="300" height="250"></a>
 <a href="https://www.publish0x.com?a=YRdGM48aDz"><img src="https://cdn.publish0x.com/prod/fs/images/1eeb63ce71e9a89997bd7ee3b41bff2bbb4a17985e208e71e184e49d5becbc5f.gif" width="300" height="250" /></a>
 
-# ["I AM A CRYPTO ENTHUSIAST,I.T FANATIC,SOCIALMEDIA PERSON AND A BLOGGER,WHO GOT HERE BY A LOT OF DETERMINATION NOT TO GIVREUP UNTIL I CAN PROOF TO MYSELF I AM USEFUL!"Resources:- VISIT PUBLISH0X: ]("https://www.publish0x.com?a=YRdGM48aDz"- EARN GRAM: "https://GramFree.world/?r=2191438"Author's home: "https://alphablogs.github.io")
+# [*_"I AM A CRYPTO ENTHUSIAST,I.T FANATIC,SOCIALMEDIA PERSON AND A BLOGGER,WHO GOT HERE BY A LOT OF DETERMINATION NOT TO GIVREUP UNTIL I CAN PROOF TO MYSELF THAT I AM USEFUL!"_*Resources:- VISIT PUBLISH0X: ]("https://www.publish0x.com?a=YRdGM48aDz"- EARN GRAM: "https://GramFree.world/?r=2191438"Author's home: "https://alphablogs.github.io")
 
 
 **WELCOME ON HERE**  
